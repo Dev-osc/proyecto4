@@ -5,7 +5,7 @@ import java.time.LocalDate;
 
 /**
  * Programa de pruebas para la clase <code>ChipBici</code>: métodos <code>actualizarFirmware</code> y <code>reset</code>.
- * @author profe
+ * 
  */
 public class Pruebas06 {
 

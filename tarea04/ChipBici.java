@@ -1,5 +1,5 @@
 package tarea05;
-// Óscar Marín Moreno
+
 
 import java.time.LocalDate;
 import java.time.Month;

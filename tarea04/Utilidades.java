@@ -6,8 +6,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * Utilidades para los programas de pruebas de la clase <code>ChipBici</code>.
- * @author profe
- */
+ *
 public class Utilidades {
 
     /**

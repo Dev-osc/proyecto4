@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 /**
  * Programa de pruebas para la clase <code>ChipBici</code>: atributos y constructores.
- * @author profe
+ * 
  */
 public class Pruebas0102 {
 

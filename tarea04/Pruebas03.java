@@ -7,7 +7,7 @@ import java.time.LocalDate;
 
 /**
  * Programa de pruebas para la clase <code>ChipBici</code>: métodos <code>getter</code>.
- * @author profe
+ * 
  */
 public class Pruebas03 {
 

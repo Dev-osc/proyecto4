@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 /**
  * Programa de pruebas para la clase <code>ChipBici</code>: método <code>recorrerTrayecto</code>.
- * @author profe
+ * 
  */
 public class Pruebas05 {
 
